@@ -1066,3 +1066,33 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\Galaga_USFXPawn.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\CAZA01.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\CAZA_NAV.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\ENEMY_NAV.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\ENEMY_NAV.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\CAZA_NAV.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\CAZA01.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\CAZA02.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\CAZA02.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\ESPIA01.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\ESPIA_NAV.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\ESPIA_NAV.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\ESPIA01.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\ESPIA02.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\ESPIA02.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\OSO01.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\OSO_NAV.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\OSO_NAV.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\OSO01.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\OSO02.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\OSO02.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\TRANSPOR_01.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\TRANSPOR_NAV.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\TRANSPOR_NAV.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\TRANSPOR_01.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\TRANSPOR_02.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\TRANSPOR_02.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\CARGA01.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Source\Galaga_USFX\CARGA_NAV.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\CARGA_NAV.generated.h
+C:\Users\ASUS TUF GAMING A15\Documents\Unreal Projects\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\CARGA01.generated.h
